@@ -1,0 +1,17 @@
+C:\Users\Zaheer.Hawseea\source\repos\FTPS\FTPS\obj\Debug\FTPS.Properties.Resources.resources
+C:\Users\Zaheer.Hawseea\source\repos\FTPS\FTPS\obj\Debug\FTPS.csproj.GenerateResource.cache
+C:\Users\Zaheer.Hawseea\source\repos\FTPS\FTPS\obj\Debug\FTPS.csproj.CoreCompileInputs.cache
+C:\Users\Zaheer.Hawseea\source\repos\FTPS\FTPS\bin\Debug\FTPS.exe.config
+C:\Users\Zaheer.Hawseea\source\repos\FTPS\FTPS\bin\Debug\FTPS.exe
+C:\Users\Zaheer.Hawseea\source\repos\FTPS\FTPS\bin\Debug\FTPS.pdb
+C:\Users\Zaheer.Hawseea\source\repos\FTPS\FTPS\bin\Debug\FluentFTP.dll
+C:\Users\Zaheer.Hawseea\source\repos\FTPS\FTPS\bin\Debug\System.Net.Security.dll
+C:\Users\Zaheer.Hawseea\source\repos\FTPS\FTPS\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Zaheer.Hawseea\source\repos\FTPS\FTPS\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Zaheer.Hawseea\source\repos\FTPS\FTPS\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Zaheer.Hawseea\source\repos\FTPS\FTPS\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Zaheer.Hawseea\source\repos\FTPS\FTPS\bin\Debug\FluentFTP.xml
+C:\Users\Zaheer.Hawseea\source\repos\FTPS\FTPS\obj\Debug\FTPS.csproj.CopyComplete
+C:\Users\Zaheer.Hawseea\source\repos\FTPS\FTPS\obj\Debug\FTPS.exe
+C:\Users\Zaheer.Hawseea\source\repos\FTPS\FTPS\obj\Debug\FTPS.pdb
+C:\Users\Zaheer.Hawseea\source\repos\FTPS\FTPS\obj\Debug\FTPS.Form1.resources
